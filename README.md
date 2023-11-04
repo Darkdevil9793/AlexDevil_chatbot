@@ -1,10 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THE-VIP-BOY-OP&repo=VIP-ID-CHATBOT&theme=flag-india)
+![AlexBadHacker](https://t.me/ALEXBADHACKER)
 
-[![GIF](https://github.com/THE-VIP-BOY-OP/VIP-ID-CHATBOT/blob/main/THE-VIP-BOY-OP.gif)](https://github.com/THE-VIP-BOY-OP)
-   [![VIP](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE-VIP-BOY-OP")](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE-VIP-BOY-OP")
+[![Darkdevil_Hacker](https://t.me/darkdevil898)]
 
 
 
@@ -41,6 +40,6 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-ID-CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-dark?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Darkdevil9793/AlexDevil_chatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-dark?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
   ━━━━━━━━━━━━━━━━━━━━

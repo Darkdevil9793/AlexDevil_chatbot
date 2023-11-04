@@ -5,7 +5,7 @@
 [DARKDEVIL](https://t.me/@darkdevil898)
 
 
-##📟ᴀssɪsᴛᴀɴᴛ
+## 📟 ᴀssɪsᴛᴀɴᴛ
 [ALEXBADHACKER](https://t.me/@ALEXBADHACKER)
 
 
@@ -45,8 +45,6 @@
 
 ## 🥀 Powered By [Darkdevil](https://t.me/darkdevil898) & [ALEX HACKER](https://t.me/ALEXBADHACKER)
   ━━━━━━━━━━━━━━━━━━━━
-t.me/darkdevil898) & [ALEX HACKER](https://t.me/ALEXBADHACKER)
-  ━━━━━━━━━━━━━━━━━━━━
-�
+�
 ━━━━━━━━━━━━━━━━━
 ━━
